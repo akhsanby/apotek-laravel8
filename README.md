@@ -1,7 +1,5 @@
 # Apotek Laravel with Framework
 
-## Sistem Informasi Apotek sederhana dg Laravel v8.x
-
 ## Alat dan Bahan
  1. Composer
  2. PHP 7.3+
@@ -21,7 +19,7 @@ https://github.com/AkhsanBy/apotek-laravel8.git
 3. ```php artisan key:generate```
 4. setting database pada .env
 5. ```php artisan migrate```
-6. ```php artisan db:seed DatabaseSeeder```
+6. ```php artisan db:seed```
 7. ```php artisan serve```
 8. buka http://localhost:8000
 9. username : user - password : user
